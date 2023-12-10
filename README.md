@@ -1,14 +1,9 @@
-# Diet-and-Exercise-Tracking
+# EchoNet AutoCaptcha
 
-Diet-and-Exercise-Tracking
+Auto Captcha Solver Test for EchoNet
 
 ## Description
-
-  The project introduces a comprehensive health and fitness application that adapts to users' lifestyles without adding extra stress.
-  The application includes:
-    Diet Logging
-    Physical Activity Tracking.
-    Calorie Calculator.
+Auto Captcha Solver Test for EchoNet
 
 ## Getting Started
 
