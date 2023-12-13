@@ -57,9 +57,9 @@ async function getConsoleOutput() {
         Array.from(document.querySelectorAll('button')).find(el => el.textContent === ' Verify').click();
     });
 
-    await page.waitForNavigation();
+    //await page.waitForNavigation();
 
-    await browser.close();
+    //await browser.close();
 }
 
 getConsoleOutput();
